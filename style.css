@@ -40,3 +40,22 @@ img {
   margin-right: auto;
   width: 1300px;
 }
+
+.bang {
+  color: #010156;
+  text-align: center;
+}
+
+.part4 a {
+  color: blue;
+}
+
+.hang {
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 20px;
+}
